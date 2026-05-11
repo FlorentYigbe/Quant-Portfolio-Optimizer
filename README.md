@@ -32,5 +32,4 @@ Python · NumPy · pandas · yfinance · matplotlib · seaborn
 | Train / test split | Out-of-sample validation (2023–2026) |
 
 ---
-*Academic project — BSc Wirtschaftsmathematik, Universität Mannheim, 2026.  
 Results are historical backtests and do not constitute investment advice.*
